@@ -1,0 +1,14 @@
+---
+title: "DanielStephenslab8"
+author: "Daniel Stephens"
+date: "4/9/2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown file
+This is my R Markdown file which I will turn into a html file using knitr.
+
