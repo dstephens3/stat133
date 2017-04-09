@@ -1,0 +1,13 @@
+---
+title: "Danielstephens_2"
+author: "Daniel Stephens"
+date: "4/9/2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+ Not sure if the last one worked
